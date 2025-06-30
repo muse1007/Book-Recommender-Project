@@ -13,4 +13,4 @@ Built using Python and Jupyter Notebook.
 
 ---
 
-*This is a personal project for learning and practice.*
+I want to delve deeper into the world of ML and data science. I created this self-project to learn more about different ML models and their applications.
